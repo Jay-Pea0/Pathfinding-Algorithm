@@ -1,4 +1,4 @@
-#Pathfinding Algorithm
+# Pathfinding Algorithm
 
 CMP2020M Artificial Intelligence (Assessment 2), Achieved 74%
 
