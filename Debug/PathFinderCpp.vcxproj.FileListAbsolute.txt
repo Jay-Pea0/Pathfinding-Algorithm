@@ -1,0 +1,2 @@
+D:\Move\PathFinderCpp\Debug\PathFinderCpp.exe
+C:\Games\PathFinderCpp\Debug\PathFinderCpp.exe
